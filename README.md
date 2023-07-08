@@ -1,9 +1,9 @@
 # Mental Health Chatbot
-Introducing Pandora, your mental health assistant!
+Mental health is a vital aspect of overall well-being, yet many individuals face barriers in accessing the support they need.  
 
-Poor mental health affects millions of people around the globe.
+Introducing Pandora, the mental health assistant that makes you feel better!
 
-This is a Python Flask web application that uses Natural Language Processing techniques to understand user input and generate appropriate responses. It is built using Python, Flask, and JavaScript.
+Pandora is a chatbot that uses Natural Language Processing techniques that understand users' mental health problems and generates a response accordingly. It is built using `Python Flask`, `NLTK`, `Tensorflow`, `Keras`, and `JavaScript`.
 
 
 
