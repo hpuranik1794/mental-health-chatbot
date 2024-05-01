@@ -23,7 +23,7 @@ Pandora is a chatbot that uses Natural Language Processing techniques that under
   </tr>
 </table>
 
-## To run locally
+## Project Setup
 
 1. Install the required python dependencies
 
@@ -31,7 +31,7 @@ Pandora is a chatbot that uses Natural Language Processing techniques that under
 pip install -r requirements.txt
 ```
 
-2. <em>(Optional)</em> Train the chatbot model on the intents. You can also add intents of your own in `intents.json`.
+2. <em>(Optional)</em> Train the chatbot model on the intents. You can also add intents of your own in `intents.json`
 ```
 python ./train_chatbot.py
 ```
