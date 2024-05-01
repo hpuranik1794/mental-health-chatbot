@@ -127,7 +127,7 @@
     },
     {"tag": "suicide",
         "patterns": ["I want to kill myself", "I've thought about killing myself.", "I want to die", "I am going to kill myself", "I am going to commit suicide", "I want to commit suicide"],
-        "responses": ["I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821."]
+        "responses": ["I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: (905) xxx-xxxx."]
     },
     {"tag": "quit",
         "patterns": ["I feel like quitting", "I want to quit", "I am too tired of this", "I have had enough of this"],
